@@ -13,6 +13,7 @@ new_folder3.mkdir()
 print(new_folder.exists())
 print(new_folder3.exists())
 
+
 files = [new_folder3 / "image_1.png",
          new_folder3 / "image_2.gif",
          new_folder3 / "image_3.png",
